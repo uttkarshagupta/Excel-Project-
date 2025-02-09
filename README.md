@@ -24,7 +24,8 @@ To maximize sales growth, Vrinda Store should:
 ## Dashboard Preview
 Below is an overview of the dashboard used for analysis:
 
-![Dashboard Preview](Excel-Project-/Excel Report.png)  
+![Dashboard Preview](![image](https://github.com/user-attachments/assets/8e415743-1714-462d-925c-e7f3c1665462)
+)  
 
 ## How to Use This Report
 1. Review the **insights** to understand customer behavior and sales performance.
